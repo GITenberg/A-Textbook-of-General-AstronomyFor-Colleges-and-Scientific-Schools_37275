@@ -1,0 +1,30 @@
+_repo: A-Textbook-of-General-AstronomyFor-Colleges-and-Scientific-Schools_37275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Charles A. (Charles Augustus)
+    aliases:
+    - Young, C. A. (Charles Augustus)
+    - Young, Charles Augustus
+    birthdate: 1834
+    deathdate: 1908
+    gutenberg_agent_id: '38740'
+    url: http://www.gutenberg.org/2009/agents/38740
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2011-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+title: A Textbook of General Astronomy for Colleges and Scientific Schools
+url: http://www.gutenberg.org/ebooks/37275
